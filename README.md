@@ -1,3 +1,4 @@
+<!-- ABOUT THE PROJECT -->
 # BioNLP ACL'24 Shared Task on Streamlining Discharge Documentation
 - This is an university project that Viet Dao Quoc and Xuanzhi Chen did
 - We deployed a RAG-model and used it together with different generative LLM-models for few-shot prompting for INFERENCE on the data.
