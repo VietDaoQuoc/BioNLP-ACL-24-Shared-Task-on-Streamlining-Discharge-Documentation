@@ -1,5 +1,5 @@
 # BioNLP ACL'24 Shared Task on Streamlining Discharge Documentation
-This is an university project that Viet Dao Quoc and Xuanzhi Chen took part in.
+This is an university project that Viet Dao Quoc and Xuanzhi Chen took part in and was supervised by Mayank Jobanputra, Marian Marchal and Prof. Vera Demberg at University of Saarland.
 We deployed a RAG-model and used it together with different generative LLM-models for few-shot prompting for INFERENCE on the data.
 In this project, our goal is to do model assessment with different models without FINE-TUNNING, the list of model in use:
 - BioMistral-7B
